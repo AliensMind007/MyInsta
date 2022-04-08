@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901499828951",
+    "project_id": "svoyinsta",
+    "storage_bucket": "svoyinsta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901499828951:android:905eb711e8418b9ade4e92",
+        "android_client_info": {
+          "package_name": "com.example.svoyinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901499828951-k09a42d1krtt9slsi22lmvjivc5ni6cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-RXcJHbSH7S2zn_Acs2Tm_L8E6MQXY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901499828951-k09a42d1krtt9slsi22lmvjivc5ni6cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
